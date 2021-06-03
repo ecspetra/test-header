@@ -93,6 +93,7 @@ body {
   font-family: SegoeUI;
   font-weight: 700;
   line-height: 1;
+  margin: 0px 0px 2px 0px;
 }
 .header-container .header .header__content .header__content__navigation-left ul .more {
   display: none;
