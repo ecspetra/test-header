@@ -162,7 +162,7 @@ body {
   width: 32px;
   height: auto;
 }
-.header-container .header .header__content .header__content__navigation-right ul .username {
+.header-container .header .header__content .header__content__navigation-right ul .username .link-text {
   margin: 1px 0px 0px 0px;
   border-bottom: 2px solid rgba(0, 0, 0, 0) !important;
 }

@@ -199,8 +199,10 @@ body {
           .cart {
           }
           .username {
-            margin: 1px 0px 0px 0px;
-            border-bottom: 2px solid rgba($color: #000000, $alpha: 0) !important;
+            .link-text {
+              margin: 1px 0px 0px 0px;
+              border-bottom: 2px solid rgba($color: #000000, $alpha: 0) !important;
+            }
           }
         }
       }
